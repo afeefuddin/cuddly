@@ -8,9 +8,6 @@ requests
 python-dotenv
 InstructorEmbedding
 sentence-transformers==2.2.2
-vertexai
-langchain-google-vertexai
 langchain-mongodb
-langchain_openai
 Flask
 Gunicorn
